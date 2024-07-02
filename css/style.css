@@ -82,6 +82,9 @@ body {
   padding: 12px 20px;
   background-color: #003f41;
   border-radius: 62px;
+  font-weight: 500;
+  font-family: inherit;
+  font-size: 16px;
   line-height: 1.5;
   color: #fff;
   border: none;
