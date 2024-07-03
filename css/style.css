@@ -24,6 +24,11 @@ body {
 .logo {
   display: inline-block;
   margin: 0 0 57px;
+  width: 180px;
+}
+
+.logo img {
+  width: 100%;
 }
 
 .content {
